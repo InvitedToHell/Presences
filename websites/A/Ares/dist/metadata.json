@@ -1,0 +1,25 @@
+{
+    "$schema": "https://schemas.premid.app/metadata/1.3",
+    "service": "Ares",
+    "author": {
+      "name": "InvitedToHell",
+      "id": "469514043053309952"
+    },
+    "category": "games",
+    "logo": "https://media.discordapp.net/attachments/740164230459949098/870748763545829436/image0.png",
+    "thumbnail": "https://i.imgur.com/ErmpoG9.png",
+    "version": "1.0.0",
+    "color": "#ffffff",
+    "tags": [
+      "minecraft",
+      "client",
+      "download",
+      "panel",
+      "ares",
+      "aresclient"
+    ],
+    "url": "www.aresclient.com",
+    "description": {
+      "en": "A minecraft pvp client with many features and a bunch of settings."
+    }
+  }
